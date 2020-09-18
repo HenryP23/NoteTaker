@@ -26,6 +26,6 @@ Henry
 [Github Profile](https://github.com/HenryP23)  
 You can contact me through my email henryhparrish@gmail.com
 ## Visual
-![ScreenShot](/relative/path/to/noteTakerPic#1.PNG)
+![ScreenShot](/relative/path/to/noteTakerPic#1.PNG?raw=true)
 
 
