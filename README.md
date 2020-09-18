@@ -27,4 +27,6 @@ Henry
 You can contact me through my email henryhparrish@gmail.com
 ## Visual
 
+- [visual](noteTakerPic#1.PNG)
+- [visual](noteTakerPic#2.PNG)
 
