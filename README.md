@@ -1,4 +1,4 @@
-# Generator
+# Note Taker
 
 - [Description](#Description)
 - [Installation](#Installation)
@@ -26,7 +26,6 @@ Henry
 [Github Profile](https://github.com/HenryP23)  
 You can contact me through my email henryhparrish@gmail.com
 ## Visual
+![ScreenShot](noteTakerPic#1.PNG)
 
-! [visual](noteTakerPic#1.PNG)
-! [visual](noteTakerPic#2.PNG)
 
